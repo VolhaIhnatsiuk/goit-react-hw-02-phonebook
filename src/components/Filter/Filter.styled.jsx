@@ -6,6 +6,6 @@ export const Info = styled.p`
 `
 export const Input = styled.input`
     width: 200px;
-    height: 25px;
+    height: 35px;
     border-radius: 5px;
 `
